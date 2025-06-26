@@ -10,7 +10,7 @@ int main(){
             {
                 swap(arr[j], arr[j+1]);
             }
-            
+
         }
         
     }
